@@ -1,0 +1,8 @@
+CARRERAS
+# Ejemplo de fichero de carreras
+#
+1 *10.0  *11/02/2024*  XXXV Carrera Villa de Albolote* 
+2 *15.0*17/03/2024*   XX Prueba de Fondo de Loja *
+3 *21.097*21/04/2024*  XXII Media Maraton de Baza *
+4 *15.0*02/05/2024*  II Carrera Costa Tropical de Motril *
+5 * 10.0 *26/05/2024  * XII Carrera de Huescar*
